@@ -1,0 +1,2 @@
+"Simplified Conditional Diffusion Model for Protein Structure Prediction
+This repository contains a Python demonstration of conditional diffusion processes inspired by those used in advanced protein structure prediction models like AlphaFold 3. The code simulates the basics of how conditioning data can influence the prediction of 3D protein structures, using simplified one-dimensional data and noise models. It's designed as an educational tool to help understand the fundamentals of diffusion models in bioinformatics."
